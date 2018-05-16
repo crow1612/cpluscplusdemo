@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1526458039 source:e:\work\havefun\programmethod\demo\main.cpp
+	"Friend.h"
+	"Final.h"
+	"Chapter01.h"
+	"Chapter02.h"
+	"Chapter02.h"
+	"CMoveSyntax.h"
+	<iostream>
+	<vector>
+
+1525851994 source:e:\work\havefun\programmethod\demo\src\friend.cpp
+	"Friend.h"
+
+1526268443 e:\work\havefun\programmethod\demo\include\friend.h
+
+1525915447 source:e:\work\havefun\programmethod\demo\src\final.cpp
+	"Final.h"
+
+1525917559 e:\work\havefun\programmethod\demo\include\final.h
+	<iostream>
+
+1525951845 e:\work\havefun\programmethod\demo\include\chapter01.h
+	<iostream>
+	<string>
+	<stdio.h>
+	<climits>
+	<cstdio>
+	<cassert>
+
+1525951849 source:e:\work\havefun\programmethod\demo\src\chapter01.cpp
+	"Chapter01.h"
+
+1526009751 source:e:\work\havefun\programmethod\demo\src\chapter02.cpp
+	"Chapter02.h"
+
+1526268443 e:\work\havefun\programmethod\demo\include\chapter02.h
+	<iostream>
+	<list>
+	<vector>
+	<deque>
+
+1526456595 source:e:\work\havefun\programmethod\demo\src\cmovesyntax.cpp
+	"CMoveSyntax.h"
+	<vector>
+
+1526457926 e:\work\havefun\programmethod\demo\include\cmovesyntax.h
+	<iostream>
+
